@@ -20,4 +20,3 @@ Go to the project folder
     ```./runner_script.py``` also works if you don't want to give these parameters
 
 + We get the graph in network.png file. And page rank graph in pagerank.png
-+ Github Repo link: https://github.com/Jyotheeswar114/DS_S22_Project
