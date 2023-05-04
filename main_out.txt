@@ -1,0 +1,9 @@
+https://dstestcase.w3spaces.com https://testcase3.w3spaces.com	
+https://dstestcase.w3spaces.com https://dstestcase.w3spaces.com	
+https://dstestcase.w3spaces.com https://dstestcase.w3spaces.com/index.html	
+https://dstestcase.w3spaces.com https://testcase2.w3spaces.com	
+https://dstestcase.w3spaces.com/index.html https://testcase3.w3spaces.com	
+https://dstestcase.w3spaces.com/index.html https://dstestcase.w3spaces.com/index.html	
+https://dstestcase.w3spaces.com/index.html https://testcase2.w3spaces.com	
+https://testcase3.w3spaces.com https://testcasemain.w3spaces.com/index.html	
+https://testcase3.w3spaces.com https://testcase2.w3spaces.com	
